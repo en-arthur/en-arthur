@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on InitFlow(an AI app builder for non-technical individuals)<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Backend development<br>💬 Ask me about anything 
+🔭 I’m currently working on BrightLink<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Backend development<br>💬 Ask me about anything 
 
 
 ## 🌐 Socials:
